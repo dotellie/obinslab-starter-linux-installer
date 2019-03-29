@@ -6,7 +6,7 @@ distribution. Currently only tested on Fedora. Compatible with the Anne Pro 2 ke
 ```
 git clone git@github.com:dotellie/obinslab-starter-linux-installer.git
 cd obinslab-starter-linux-installer
-chmod +x installer.sh
+chmod +x install.sh
 ./install.sh
 ```
 
